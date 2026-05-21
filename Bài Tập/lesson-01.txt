@@ -1,0 +1,38 @@
+Bài tập Playwright (bài này là tự tạo 1 repo mới hoàn
+toàn của MinhChu rồi push code bài tập này lên nha
+)
+1. Tạo project Playwright mới
+
+* Tạo một folder mới tên là `pw-course`
+* Khởi tạo project Playwright trong folder đó
+
+### Chỉnh sửa bài test `has title` trong file `tests/example.spec.ts`
+
+#### Yêu cầu:
+
+a. Truy cập trang web:
+`https://material.playwrightvn.com/`
+
+b. Kiểm tra tiêu đề trang có chứa nội dung:
+`"Bài kiểm tra tự động hóa học thuật"`
+
+---
+
+## 2. Chỉnh sửa bài test `get started link`
+
+### Yêu cầu:
+
+a. Truy cập trang web:
+`https://material.playwrightvn.com/`
+
+b. Nhấn vào liên kết có nội dung:
+`"Bài học 1: Register Page"`
+
+c. Kiểm tra trang web hiển thị thẻ heading với nội dung:
+`"User Registration"`
+
+---
+
+## 3. GitHub
+
+* tạo repo và push code lên repo đó
